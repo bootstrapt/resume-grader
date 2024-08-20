@@ -1,6 +1,6 @@
 # Resume Grader
 
-Install poetry if you don't already have it, then run the following commands:
+Install poetry if you don't already have it, then run the following commands:  
 `poetry install`  
 `poetry shell`  
 `jupyter notebook`
